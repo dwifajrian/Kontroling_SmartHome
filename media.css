@@ -1,0 +1,32 @@
+
+
+@media screen and (max-width: 768px){
+    .image{
+     margin-left: -25px;
+    }
+    .imagee{
+        margin-left: -15px;
+    }
+    .form-check-input{
+        margin-top: 20px;
+        height: 40px;
+       
+    }
+    #flexSwitchCheckDefault{
+        width: 70px;
+    }
+    .form-check-label{
+        margin-left: -50px;
+        font-size: 35px ;
+        
+    }
+
+    .navbar-sensor{
+       margin-left: -30px;
+    }
+
+    .panel{
+        width: 600px;
+        margin-left: -55px;
+    }
+}
